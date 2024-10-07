@@ -1,0 +1,63 @@
+Variable.js
+  scope
+  global variable
+  var
+  let 
+  const
+  variable declration and variable initialization
+  hoisting
+  what is variable declration,initalization and definig
+
+MAP,FILTER,REDUCE methods.js
+  Map
+  FILTER
+  reduce method
+  What is the difference between MAP AND FOREACH
+
+functions.js
+  Different type of functions
+  What is function declaration?
+  what is function expression?
+  what is first class function?
+  what is IIFE(immediately invoke function expression)
+  what is closure
+  Params vs arguments
+  Spread and Rest operation
+  WHAT IS CALLBACK FUNCTION
+  What is arrow functions
+  What is The differences between arrow function and normal function.
+  Arguments object
+  "This" keyword
+  Hoisting
+  Constructor
+
+closure
+  What is Lexical scope
+  What is Closure scope chain
+  how would you use a closure to create a private counter?
+  what is the difference between closure and scope
+  Types of Scope
+
+Currying
+  What is Currying?
+  Advantage of curring
+  Infinite currying
+
+Object
+  What is Javascript objects
+  How to add dynamic property into a object
+  What is JSON.strigify and JSON.parse?
+  LOCAL STORAGE
+  What is DESTRUCTURING in object
+  How destructure the nested obj
+  what is object reference
+    Reference Assignment
+    Mutability
+    Comparison
+    Cloning Objects
+      Shallow Copy and Deep copy
+
+
+
+ 
+
